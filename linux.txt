@@ -1,0 +1,13 @@
+Linux Commands 
+
+
+System service commands
+
+1)Systemctl list-units => show the currently used active loaded services 
+
+Services 
+Mounts 
+
+2)Systemctl list-units --status=failed
+
+Filter the output which are in the failed status 
