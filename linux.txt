@@ -11,3 +11,7 @@ Mounts
 2)Systemctl list-units --status=failed
 
 Filter the output which are in the failed status 
+
+3) git tracking files command 
+
+git ls-files
