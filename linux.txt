@@ -12,4 +12,15 @@ Mounts
 
 Filter the output which are in the failed status 
 
+pwd: Print working directory. Shows your current location.
 
+ls: List directory contents. Use ls -l for a detailed view 
+
+ls -a to see hidden files
+
+cd: Change directory. Use cd .. to go up one level, 
+or cd ~ to return home.File Operationsmkdir: Make directory. 
+Creates a new folder.touch: 
+Create empty file. Quickly creates a new blank document.
+cp: Copy files/folders. Use cp source.txt destination.txt.
+mv: Move or rename. Relocates a file or changes its name.
