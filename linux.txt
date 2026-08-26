@@ -23,4 +23,4 @@ or cd ~ to return home.File Operationsmkdir: Make directory.
 Creates a new folder.touch: 
 Create empty file. Quickly creates a new blank document.
 cp: Copy files/folders. Use cp source.txt destination.txt.
-mv: Move or rename. Relocates a file or changes its name.
+
