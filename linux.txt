@@ -24,3 +24,4 @@ Creates a new folder.touch:
 Create empty file. Quickly creates a new blank document.
 cp: Copy files/folders. Use cp source.txt destination.txt.
 
+top command Monitor processes 
