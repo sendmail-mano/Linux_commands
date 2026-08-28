@@ -1,6 +1,6 @@
                                                 Learn Linux Commands
 
-📌Linux Navigation Commands
+📌Linux Navigation
 
 📌File & directory management
 
