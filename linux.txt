@@ -1,6 +1,5 @@
 Linux Commands 
 
-
 System service commands
 
 1)Systemctl list-units => show the currently used active loaded services 
@@ -24,4 +23,7 @@ or cd ~ to return home.File Operations
 mkdir: Make directory Creates a new folder.
 
 touch: Create empty file. Quickly creates a new blank document.
+
+tree	Display directories as a tree (if installed)
+
 
