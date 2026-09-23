@@ -105,15 +105,12 @@ Visit our [Releases page](https://github.com/bobbyiliev/101-linux-commands/relea
 | `/mnt`   | Mountpoint for internal drives      |
 | `/media` | Mountpoint for external drives      |
 | `/home`  | User homes                          |
-| `/run`   | PID files of running processes      |
-
----
-
-## Commands
-
-**File System Commands**
 
 | Command                                                                                                         | Options          | Description                                       |
+
+
+Basic command Linux 
+
 | --------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- |
 | [`cd`](https://github.com/bobbyiliev/101-linux-commands/blob/main/ebook/en/content/002-the-cd-command.md)       | `-`              | Navigate to last dir                              |
 |                                                                                                                 | `~`              | Navigate to home                                  |
