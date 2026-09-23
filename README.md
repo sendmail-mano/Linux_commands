@@ -1,3 +1,3 @@
 Linux Basic commands 
 
-Learning basicLinux Commands
+Learning basic Linux Commands
